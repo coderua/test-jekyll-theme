@@ -1,4 +1,4 @@
-remote_theme: coderua/infotorg-api-jekyll-theme
+remote_theme: "coderua/infotorg-api-jekyll-theme"
 # --- Jekyll configuration ---
 defaults:
   - scope:
