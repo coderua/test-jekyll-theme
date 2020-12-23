@@ -1,1 +1,2 @@
-remote_theme: "coderua/infotorg-api-jekyll-theme@main"
+# --- Jekyll config ---
+theme: "infotorg-api-jekyll-theme"
