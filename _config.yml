@@ -1,1 +1,8 @@
 remote_theme: "coderua/infotorg-api-jekyll-theme@main"
+# --- Jekyll configuration ---
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      show_navigation: true
