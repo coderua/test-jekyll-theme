@@ -1,2 +1,5 @@
 # --- Jekyll config ---
-theme: "infotorg-api-jekyll-theme"
+remote_theme: "coderua/infotorg-api-jekyll-theme@main"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
